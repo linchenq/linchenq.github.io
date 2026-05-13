@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Research
 permalink: /research/
+title: Research
 description: 
-nav: false
+nav: true
 nav_order: 2
 ---
 
