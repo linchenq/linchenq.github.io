@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Linchen Qian # the website title (if blank, full name will be used instead)
-first_name: Linchen
+first_name: <b>Linchen</b>
 middle_name: 
 last_name: Qian
 contact_note: >
@@ -55,7 +55,7 @@ external_services:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Please find my most recent publications at my [Google Scholar](https://scholar.google.com/citations?user=cqAjbgQAAAAJ)
+description: Please find my most recent publications at my <a href='https://scholar.google.com/citations?user=cqAjbgQAAAAJ'>Google Scholar</a>
 nav: true
 nav_order: 1
 ---
