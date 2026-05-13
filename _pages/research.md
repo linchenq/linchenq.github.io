@@ -9,7 +9,11 @@ nav_order: 2
 
 ## Project: CQ-VAE: Coordinate-Quantized VAE for Shape Uncertainty Estimation
 
-{% include figure.html path="assets/img/cq_vae.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3">
+        {% include figure.liquid path="assets/img/cq_vae.jpg" title="Model Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 - Motivation:
     - Formulated to address shape uncertainty estimation on lumbar spine MR images, specifically motivated by inter-annotator disagreement on lumbar spine disc boundaries.
@@ -28,10 +32,10 @@ nav_order: 2
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3">
-        {% include figure.html path="assets/img/transdeformer.jpg" title="Top Image Description" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/transdeformer.jpg" title="Model Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-12 mt-3">
-        {% include figure.html path="assets/img/transdeformer_eval.jpg" title="Bottom Image Description" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/transdeformer_eval.jpg" title="Model Evaluation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -50,7 +54,11 @@ nav_order: 2
 
 ## Project: Structured Quad-Mesh Reconstruction of the Aortic Valve from 3D CT
 
-{% include figure.html path="assets/img/aortic_mesh_eval.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3">
+        {% include figure.liquid path="assets/img/aortic_mesh_eval.jpg" title="Aortic Valve Evaluation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 - Motivation:
     - Traditional automated aortic valve meshing often relies on unstructured triangular meshes that require complicated loss functions and produce lower element quality.
